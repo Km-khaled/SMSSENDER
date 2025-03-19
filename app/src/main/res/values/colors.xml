@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern color scheme -->
+    <color name="primary">#5664D2</color>
+    <color name="primary_dark">#4152C7</color>
+    <color name="primary_light">#8791E0</color>
+    <color name="accent_color">#5664D2</color>
+
+    <color name="background_color">#F9FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="outline_color">#E2E8F0</color>
+
+    <color name="primary_text">#333B4F</color>
+    <color name="secondary_text">#6B7280</color>
+    <color name="status_text">#4B5563</color>
+
+    <color name="button_color">#5664D2</color>
+    <color name="button_ripple">#8791E0</color>
+
+    <color name="progress_color">#5664D2</color>
+    <color name="progress_track_color">#E0E7FF</color>
+
+    <color name="success_color">#22C55E</color>
+    <color name="error_color">#EF4444</color>
+
+    <!-- Default Android colors that are required by the system -->
+    <color name="purple_200">#8791E0</color>
+    <color name="purple_500">#5664D2</color>
+    <color name="purple_700">#4152C7</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
